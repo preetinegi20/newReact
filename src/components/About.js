@@ -27,7 +27,7 @@ else{
     Link with href
   </a>
   <button className="btn btn-primary" type="button" data-bs-toggle="collapse" data-bs-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
-    Button with data-bs-target
+    Button with -bs-target
   </button>
 </p>
 <div className="collapse" id="collapseExample"  style={bg}>
